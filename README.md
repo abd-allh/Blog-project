@@ -6,13 +6,13 @@
 
 ### _Get all posts_
 
-![preview-img](/public/images/all-posts.png)
+![preview-img](./public/images/all-posts.png)
 
 ### _Get a specific post_
 
 ![preview-img](/public/images/specific-post.png)
 
-### _Creat a new post_
+### _Create a new post_
 
 ![preview-img](/public/images/new-post.png)
 
@@ -24,10 +24,10 @@
 
 ![preview-img](/public/images/delete-posts.png)
 
-## If you wanna try it yourself
+## If you want to try it yourself
 
 - Make sure you have _node_ installed
-- Just clone it and run ```npm i```
+- Clone it and run ```npm i```
 - Then start the server  
   `node index.js`  
   `node server.js`
