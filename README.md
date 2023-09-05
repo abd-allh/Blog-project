@@ -6,7 +6,7 @@
 
 ### _Get all posts_
 
-![preview-img](./public/images/all-posts.png)
+![preview-img](https://github.com/abd-allh/image-library/assets/123427571/a29f3454-cbca-4613-b52d-1da1a13b38ab)
 
 ### _Get a specific post_
 
